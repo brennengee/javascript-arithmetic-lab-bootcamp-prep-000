@@ -1,3 +1,3 @@
-function add(a, b) {
+function add() {
   console.log(add(a, b)).toEqual(a + b)
 }
