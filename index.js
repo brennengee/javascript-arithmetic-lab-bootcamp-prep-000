@@ -1,5 +1,6 @@
 var a = 7
-var b = 3 
+var b = 3
+var n = 21
 
 function add(a, b) {
   return a + b 
