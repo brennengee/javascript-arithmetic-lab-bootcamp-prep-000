@@ -1,5 +1,7 @@
+var a = 7
+var b = 3
+
 function add() {
-  var a = 7
-  var b = 3
-  console.log(a + b)
+  console.log( a + b )
 }
+add()
