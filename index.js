@@ -1,4 +1,3 @@
 function add(a, b) {
-  a + b 
-  console.log(add)
+  console.log(a + b)
 }
